@@ -1,0 +1,9 @@
+{
+  "name": "poe-wiki-support-pack-fetch",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "node-fetch": "^3.3.1"
+  }
+}

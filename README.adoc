@@ -1,0 +1,9 @@
+= Firefox addon to calc account "worth"
+
+- to use go to about:debugging#/runtime/this-firefox => this firefox => load extension, choose manifest
+
+== How?
+
+- absolutely fugly scraping of the wiki for the prices + manual adjustments
+- load the scraped prices into the addon
+- fetch badges (apparently only one per tier can be shown)
